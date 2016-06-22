@@ -1,0 +1,29 @@
+{
+  "name": "rev76",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "ejs": "^2.4.2",
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksc4130/rev76.git"
+  },
+  "author": "Kyle Curren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ksc4130/rev76/issues"
+  },
+  "dependencies": {
+    "ejs": "^2.3.4",
+    "express": "^4.13.4"
+  },
+  "homepage": "https://github.com/ksc4130/rev76#readme"
+}
